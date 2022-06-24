@@ -1,9 +1,9 @@
 {
-  "name": "Mr Coxall's App",
+  "name": "Mr Coxa",
   "short_name": "Mr Coxall's App",
   "description": "Github Page for Mr Coxall's App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "scope": "/ICS20assignment5-html/",
+  "start_url": "/ICS20assignment5-html/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
