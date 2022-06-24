@@ -1,9 +1,8 @@
-# ICS2O-PWA-Template-HTML
+# ICS20assignment5-html
 
-Template to make an MDL, PWA website, on GitHub pages.
 
-[![Mr Coxall's Super Linter](https://github.com/mr-coxall/github-page-pwa/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/mr-coxall/github-page-pwa/actions)
+[![Mr Coxall's Super Linter](https://github.com/Emmanuel-Fofeyin/ICS20assignment5-html/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Emmanuel-Fofeyin/ICS20assignment5-html/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/mr-coxall/github-page-pwa)](https://repl.it/github/mr-coxall/github-page-pwa)
+[![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Fofeyin/ICS20assignment5-html)](https://repl.it/github/Emmanuel-Fofeyin/ICS20assignment5-html)
 
-This site can be found at: [https://mr-coxall.github.io/github-page-pwa/](https://mr-coxall.github.io/github-page-pwa/)
+This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS20assignment5-html](https://Evgeny-Vovk.github.io/ICS2Oassignment5-hTML)
