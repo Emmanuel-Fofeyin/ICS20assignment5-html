@@ -29,7 +29,7 @@ function calculate() {
 
   if (integerOneInt < 0) {
     document.getElementById("loop").innerHTML =
-    "Please input a positive whole number!"
+      "Please input a positive whole number!"
   } else {
     while (counter < integerOneInt) {
       console.log("Once through loop:" + counter)
@@ -38,11 +38,11 @@ function calculate() {
         total += NUMERATOR / denominator
       } else {
         denominator = counter * 2 + 1
-        total += - (NUMERATOR / denominator)
+        total += -(NUMERATOR / denominator)
       }
-  
+      
   counter++
-      }
+    }
     document.getElementById("loop").innerHTML = "The number is " + total
   }
 }
