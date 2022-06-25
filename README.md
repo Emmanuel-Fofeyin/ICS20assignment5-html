@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Fofeyin/ICS20assignment5-html)](https://repl.it/github/Emmanuel-Fofeyin/ICS20assignment5-html)
 
-This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS20assignment5-html](https://Emmanuel-Fofeyin.github.io/ICS2Oassignment5-html)
+This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS20assignment5-html](https://Emmanuel-Fofeyin.github.io/ICS20assignment5-html)
