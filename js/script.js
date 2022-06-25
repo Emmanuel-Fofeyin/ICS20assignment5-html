@@ -19,7 +19,7 @@ if (navigator.serviceWorker) {
 function calculate() {
   // input
   var integerOne = document.getElementById("integer-one").value
-  
+
   // process
   const NUMERATOR = 4
   let counter = 0
@@ -28,19 +28,20 @@ function calculate() {
   let integerOneInt = parseInt(integerOne)
 
   if (integerOneInt < 0) {
-    document.getElementById("loop").innerHTML = "Please input a positive whole number!"
+    document.getElementById("loop").innerHTML = 
+    "Please input a positive whole number!"
   } else {
     while (counter < integerOneInt) {
-        console.log("Once through loop:" + counter)
-        if (counter % 2 == 0) {
+      console.log("Once through loop:" + counter)
+      if (counter % 2 == 0) {
+        denominator = counter * 2 + 1
+        total += NUMERATOR / denominator
+      } else {
           denominator = counter * 2 + 1
-          total += NUMERATOR / denominator
-        } else {
-          denominator = counter * 2 + 1
-          total += - (NUMERATOR / denominator)
+        total += - (NUMERATOR / denominator)
         }
-      counter++
+    counter++
       }
-    document.getElementById("loop").innerHTML = "The number is " + (total)
+    document.getElementById("loop").innerHTML = "The number is " + total
   }
 }
