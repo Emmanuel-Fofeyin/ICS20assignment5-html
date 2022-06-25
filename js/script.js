@@ -40,11 +40,4 @@ function calculate() {
         denominator = counter * 2 + 1
         total += -(NUMERATOR / denominator)
       }
-
-
       
-  counter++
-    }
-    document.getElementById("loop").innerHTML = "The number is " + total
-  }
-}
