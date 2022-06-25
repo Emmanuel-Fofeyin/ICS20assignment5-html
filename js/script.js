@@ -28,7 +28,7 @@ function calculate() {
   let integerOneInt = parseInt(integerOne)
 
   if (integerOneInt < 0) {
-    document.getElementById("loop").innerHTML = 
+    document.getElementById("loop").innerHTML =
     "Please input a positive whole number!"
   } else {
     while (counter < integerOneInt) {
@@ -37,10 +37,11 @@ function calculate() {
         denominator = counter * 2 + 1
         total += NUMERATOR / denominator
       } else {
-          denominator = counter * 2 + 1
+        denominator = counter * 2 + 1
         total += - (NUMERATOR / denominator)
-        }
-    counter++
+      }
+  
+  counter++
       }
     document.getElementById("loop").innerHTML = "The number is " + total
   }
