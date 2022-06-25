@@ -41,8 +41,7 @@ function calculate() {
         total += -(NUMERATOR / denominator)
       }
 
-
-
+    
   counter++
     }
     document.getElementById("loop").innerHTML = "The number is " + total
